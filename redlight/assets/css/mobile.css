@@ -1,0 +1,2092 @@
+@media screen and (min-width:1951px) {
+    .banner-img-content-about {
+        left: 15px;
+        top: 123px
+    }
+
+}
+
+@media screen and (max-width:1950px) {
+    .about-us-banner-section .home-banner-text {
+        padding: 109px 118px 130px 392px
+    }
+
+    .infinite-scroll-banner .home-banner-text {
+        padding: 107px 90px 130px 363px
+    }
+
+    .about-teams-section .teams-section2 .whyus-icon {
+        position: absolute;
+        right: -34%;
+        top: 16px
+    }
+}
+
+@media screen and (max-width:1850px) {
+    .about-us-banner-section .home-banner-text {
+        padding: 78px 78px 88px 390px
+    }
+
+    .social-icons-about .linkedin-top {
+        top: 213px
+    }
+
+    .social-icons-about .twitter-top {
+        top: 149px
+    }
+
+    .social-icons-about .facebook-top {
+        top: 85px;
+        position: absolute
+    }
+
+    .infinite-scroll-banner .home-banner-text {
+        padding: 102px 90px 115px 305px
+    }
+
+    .about-teams-section .teams-section2 .whyus-icon {
+        position: absolute;
+        right: -30%;
+        top: 16px;
+        display: none
+    }
+}
+
+@media screen and (max-width:1750px) {
+    .main-header {
+        padding: 28px 230px 0 230px
+    }
+
+    .about-us-banner-section .home-banner-text {
+        padding: 76px 118px 60px 302px
+    }
+
+    .infinite-scroll-banner .home-banner-text {
+        padding: 90px 90px 100px 260px
+    }
+
+    .about-teams-section .teams-section2 .whyus-icon {
+        position: absolute;
+        right: -25%;
+        top: 16px;
+        width: 230px
+    }
+}
+
+@media screen and (max-width:1650px) {
+    .main-header {
+        padding: 28px 150px 0 150px
+    }
+
+    .about-us-banner-section .home-banner-text {
+        padding: 75px 73px 35px 289px
+    }
+
+    .infinite-scroll-banner .home-banner-text {
+        padding: 71px 69px 35px 222px
+    }
+
+    .about-teams-section .teams-section2 .whyus-icon {
+        position: absolute;
+        right: -24%;
+        top: 16px;
+        width: 169px
+    }
+}
+
+@media screen and (max-width:1550px) {
+    .main-header {
+        padding: 28px 120px 0 120px
+    }
+
+    .about-us-banner-section .home-banner-text {
+        padding: 40px 56px 35px 215px
+    }
+
+    .social-icons-about .linkedin-top {
+        top: 173px
+    }
+
+    .social-icons-about .twitter-top {
+        top: 111px
+    }
+
+    .social-icons-about .facebook-top {
+        top: 48px;
+        position: absolute
+    }
+
+    .infinite-scroll-banner .home-banner-text {
+        padding: 37px 69px 35px 201px
+    }
+}
+
+@media screen and (max-width:1440px) {
+    h1 {
+        font-size: 50px;
+        line-height: 56px
+    }
+
+    .home-banner-text {
+        padding: 62px 13px 60px 270px
+    }
+
+    .main-header {
+        padding: 17px 0 0 0
+    }
+
+    .banner-btn a {
+        line-height: 18px
+    }
+
+    .home-banner-text {
+        padding: 38px 40px 21px 40px
+    }
+
+    .banner-img-content {
+        padding: 17px 0 0 15px
+    }
+
+    .social-icons-inner {
+        left: 55px
+    }
+
+    .social-icons {
+        top: -206px;
+        padding-left: 70px
+    }
+
+    .teams-social-icons {
+        padding-left: 0
+    }
+
+    .icons-section {
+        padding: 50px 60px 50px 60px
+    }
+
+    .about-us-section-start {
+        padding: 40px 0
+    }
+
+    .about-us-section-start p {
+        margin-bottom: 40px
+    }
+
+    .main-header .navbar-brand {
+        margin: 0
+    }
+
+    .cyber-security-section {
+        padding: 122px 0 0
+    }
+
+    .accordian-section {
+        padding: 88px 0 20px
+    }
+
+    .accordian-section {
+        padding: 100px 0 70px
+    }
+
+    .services-section .services-content h4 {
+        font-size: 20px;
+        line-height: 26px
+    }
+
+    .about-us-section-start .security-services-p {
+        font-size: 14px;
+        line-height: 24px
+    }
+
+    .about-teams-section .about-team-title {
+        margin-bottom: 12px
+    }
+
+
+    .cyber-security-section .cyber-security-provider-img {
+        width: 450px
+    }
+
+    .cyber-security-section .cyber-content-img-right figure img {
+        width: 450px
+    }
+
+    .home-banner-section .banner-img-content .banner-img-width {
+        width: 460px;
+    }
+
+    .main-header .navbar-brand {
+        margin-left: 0;
+        padding-bottom: 0
+    }
+
+    .navbar-nav li.active>a:before {
+        top: -21px
+    }
+
+    .banner-container-box .social-icons {
+        padding: 50px 0 0 8px
+    }
+
+    .banner-container-box .social-icons ul li .social-networks {
+        margin-right: -6px;
+    }
+
+    .carousel-controls {
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        top: 240%;
+        left: 5%;
+        right: 5%;
+        padding: 0 20px
+    }
+
+    .footer-section,
+    .contactus-section,
+    .about-us-section-start,
+    .cyber-security-section,
+    .timeline-section {
+        padding: 0;
+        padding-top: 200px
+    }
+}
+
+@media screen and (max-width:1350px) {
+    .about-us-banner-section .home-banner-text {
+        padding: 34px 31px 50px 179px
+    }
+
+    .about-us-section-start .whyus-icon {
+        display: none
+    }
+
+    .about-us-section-2 .about2-left-img {
+        display: none
+    }
+
+    .footer-section .footer-icon {
+        display: none
+    }
+
+    .carousel-controls {
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        top: 240%;
+        left: 5%;
+        right: 5%;
+        padding: 0 20px
+    }
+}
+
+@media screen and (max-width:1250px) {
+    .about-us-banner-section .home-banner-text {
+        padding: 34px 35px 60px 161px
+    }
+}
+
+@media screen and (max-width:1199px) {
+    h1 {
+        font-size: 55px;
+        letter-spacing: 0;
+        line-height: 65px;
+        word-spacing: 0
+    }
+
+    .navbar-nav li {
+        display: inline-block;
+        margin: 0 11px
+    }
+
+    .navbar-nav a {
+        color: #fff;
+        padding-top: 12px
+    }
+
+    .nav-link {
+        margin-left: 0;
+        line-height: 37px
+    }
+
+    .inner-arrow-menu-btn {
+        right: 54px;
+        top: 4px
+    }
+
+    .inner-arrow-menu-btn {
+        font-size: 14px;
+        width: 38px;
+        height: 38px;
+        line-height: 40px !important
+    }
+
+    .home-banner-text {
+        padding: 0 0 34px 12px
+    }
+
+    .social-icons {
+        top: -211px;
+        left: -21px
+    }
+
+    .banner-img-content {
+        padding: 29px 0 0 0
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0
+    }
+
+    .navbar-nav .active>a {
+        color: var(--e-global-color-white) !important
+    }
+
+    .banner-paragraph {
+        font-size: 18px;
+        line-height: 28px
+    }
+
+    .banner-btn {
+        height: 55px;
+        padding: 0 58px 0 0;
+        position: relative;
+        display: inline-block
+    }
+
+    .inner-arrow-style {
+        font-size: 19px;
+        width: 38px;
+        right: 9px;
+        top: 9px;
+        height: 38px;
+        line-height: 38px !important
+    }
+
+    .banner-paragraph {
+        margin-bottom: 33px
+    }
+
+    .btn-talk a {
+        line-height: 16px;
+        font-size: 16px;
+        padding: 15px 24px 15px 24px !important
+    }
+
+    .about-us-section-start p {
+        padding: 0 210px
+    }
+
+    .icons-section {
+        padding: 80px 0 100px 0
+    }
+
+    .about-us-section-start .whyus-icon {
+        position: absolute;
+        right: 0;
+        top: -65px;
+        display: none
+    }
+
+    .about-us-section-start {
+        padding: 0 0 40px
+    }
+
+    .cyber-security-section {
+        padding: 100px 0 97px
+    }
+
+    .cyber-boxes-section {
+        padding-bottom: 0
+    }
+
+    .cyber-security-section .cyber-content-img-right {
+        margin-top: -63px;
+        padding-left: 0
+    }
+
+    .footer-section {
+        padding-top: 90px
+    }
+
+    .testimonial-section {
+        padding: 100px 0
+    }
+
+    .testimonial-section-text {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 10px
+    }
+
+    .accordian-section {
+        padding: 60px 0 80px
+    }
+
+    .accordian-section .accordian-inner .accordion-card .btn {
+        font-size: 18px;
+        line-height: 22px
+    }
+
+    .banner-img-content-about {
+        top: 13px !important
+    }
+
+    .icons-style {
+        font-size: 14px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px !important
+    }
+
+    .team-section .facebook-left {
+        left: 96px
+    }
+
+    .team-section {
+        padding: 100px 0
+    }
+
+    .services-title {
+        margin-bottom: 36px
+    }
+
+    .about-teams-section .teams-social-icons ul {
+        padding-left: 0
+    }
+
+    .blog-content {
+        padding: 20px 16px
+    }
+
+    .blog-content p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 0
+    }
+
+    .blog-content h4 {
+        font-size: 18px
+    }
+
+    h3 {
+        font-size: 34px;
+        line-height: 38px
+    }
+
+    .cyber-boxes-section .about-us-content {
+        padding: 42px 17px 26px
+    }
+
+    h4 {
+        font-size: 22px;
+        line-height: 24px
+    }
+
+    .about-us-section-2 .about-margin-bottom {
+        margin-bottom: 20px
+    }
+
+    .about-us-section-2 .about-margin-bottom {
+        margin-bottom: 20px
+    }
+
+    .about-us-section-start .about-us-content {
+        padding: 30px 17px 30px 17px
+    }
+
+    .accordian-text h3 {
+        margin-bottom: 34px;
+        letter-spacing: 0
+    }
+
+    .accordian-section .accordian-inner .faq-btn-text {
+        font-size: 18px;
+        line-height: 26px
+    }
+
+    .pricing-plan-section .pricing-content {
+        font-size: 16px;
+        line-height: 29px
+    }
+
+    .pricing-plan-section .pricing-free-text {
+        font-size: 16px;
+        line-height: 18px
+    }
+
+    .about-teams-section {
+        padding: 65px 0 0
+    }
+
+    .about-teams-section h3 {
+        margin-bottom: 18px
+    }
+
+    .about-teams-section .teams-section-p {
+        padding: 0 16px;
+        line-height: 26px;
+        margin-bottom: 10px
+    }
+
+    .cyber-security-section .cyber-content-img-right {
+        margin-top: 0
+    }
+
+    .faq-content-img figure img {
+        width: 450px
+    }
+
+    .home-banner-section .banner-img-content .banner-img-width {
+        width: 410px;
+        margin-left: 0
+    }
+
+    .about-banner-text .banner-paragraph {
+        padding: 0 0
+    }
+
+    .contact-us-section {
+        padding: 70px 44px 56px 44px
+    }
+
+    .navbar-nav li:first-child {
+        margin-left: 92px
+    }
+
+    .carousel-controls {
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        top: 250%;
+        left: 5%;
+        right: 5%;
+        padding: 0 20px
+    }
+
+    .icons-rounded-box {
+        width: 80%
+    }
+
+    .about-us-section-start .about-teams-inner .about-team {
+        display: flex;
+        justify-content: center
+    }
+
+    .footer-section,
+    .contactus-section,
+    .about-us-section-start,
+    .cyber-security-section,
+    .timeline-section {
+        padding: 0;
+        padding-top: 150px;
+    }
+
+    .about-us-content .icons-rounded-box {
+        width: 100px;
+        display: flex;
+        justify-content: center;
+        align-content: center
+    }
+
+    .about-team-members-h3 {
+        text-align: center;
+    }
+
+    .about-teams-inner .icons-rounded-box {
+        height: 250px;
+    }
+
+
+}
+
+@media only screen and (max-width:991px) {
+    .navbar-collapse {
+        position: absolute;
+        right: 0;
+        width: 27%;
+        top: 50px;
+        z-index: 16;
+        padding: 0;
+        background: var(--e-global-color-dark-marron);
+        border-radius: 0;
+        color: var(--e-global-color-white-banner-text)
+    }
+
+    .navbar-collapse a {
+        color: var(--e-global-color-secondary) !important;
+        line-height: 16px;
+        padding: 10px 20px !important
+    }
+
+    .navbar-nav .active>a {
+        background: var(--e-global-color-red-active) !important;
+        color: var(--e-global-color-white)
+    }
+
+    .contact-us-margin {
+        margin-right: 0
+    }
+
+    .btn-talk .active>a {
+        background: var(--e-global-color-red-active) !important;
+        border-radius: 0
+    }
+
+    .navbar-collapse a:hover {
+        color: var(--e-global-color-white) !important;
+        background: var(--e-global-color-red) !important
+    }
+
+    .navbar-nav li.active {
+        color: var(--e-global-color-red-active) !important
+    }
+
+    .navbar-nav li.active>a:before {
+        display: none
+    }
+
+    .btn-talk a {
+        color: transparent;
+        height: auto;
+        background: 0 0;
+        font-weight: 400;
+        display: block;
+        text-align: left
+    }
+
+    .navbar-toggler {
+        margin-left: auto;
+        border: none !important;
+        padding: 0;
+        width: 30px;
+        height: 22px
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background: #fff;
+        height: 2px;
+        margin: 7px 0 0 0;
+        width: 100%;
+        float: right
+    }
+
+    .navbar-toggler.collapsed span:nth-child(1) {
+        transform: rotate(0)
+    }
+
+    .navbar-toggler span.navbar-toggler-icon:first-child {
+        margin-top: 0
+    }
+
+    .navbar-toggler span:nth-child(1) {
+        transform: rotate(45deg);
+        transform-origin: 0 80%
+    }
+
+    .navbar-toggler span.navbar-toggler-icon {
+        transition: all .15s
+    }
+
+    .navbar-toggler.collapsed span:nth-child(2) {
+        opacity: 1
+    }
+
+    .navbar-toggler span:nth-child(2) {
+        opacity: 0
+    }
+
+    .navbar-toggler.collapsed span:nth-child(3) {
+        transform: rotate(0)
+    }
+
+    .navbar-toggler span:nth-child(3) {
+        transform: rotate(-45deg);
+        transform-origin: 15% 100%
+    }
+
+    .about-banner-text {
+        padding-top: 40px
+    }
+
+    .collapse:not(.show) {
+        display: none
+    }
+
+    .navbar-collapse ul {
+        align-items: unset;
+        text-align: unset;
+        margin-left: 0
+    }
+
+    button:focus {
+        outline: 0
+    }
+
+    .dropdown-content-redlight ul li a {
+        color: var(--e-global-color-white-banner-text);
+        line-height: 17px;
+        padding: 10px 29px !important;
+        width: 185px
+    }
+
+    .dropdown-content-redlight ul li a {
+        font-size: 14px;
+        color: var(--e-global-color-white) !important
+    }
+
+    .navbar li {
+        margin: 0 !important;
+        padding: 0 0 5px
+    }
+
+    .btn-talk {
+        padding: 0
+    }
+
+    .inner-arrow-menu-btn {
+        right: -38px;
+        top: 0
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 24px
+    }
+
+    h1 {
+        font-size: 50px;
+        line-height: 58px;
+        letter-spacing: 0
+    }
+
+    .about-banner-text .about-h1 {
+        font-size: 46px;
+        line-height: 50px
+    }
+
+    .banner-paragraph {
+        margin-bottom: 28px
+    }
+
+    .home-banner-text h1 {
+        margin-bottom: 14px
+    }
+
+    .home-banner-text {
+        padding: 43px 12px 36px 9px
+    }
+
+    .icons-section {
+        padding: 90px 0 90px 0
+    }
+
+    .logo-box figure img {
+        width: 96px
+    }
+
+    .icons-section h3 {
+        margin-bottom: 40px
+    }
+
+    .about-us-section-start {
+        padding: 0 0 0
+    }
+
+    .about-us-section-start p {
+        padding: 0 80px;
+        margin-bottom: 33px
+    }
+
+    .about-teams-section .about-team-title {
+        padding: 0 33px
+    }
+
+    .banner-btn .inner-arrow-style {
+        top: 8px
+    }
+
+    .drop-down-content li a {
+        padding: 0 22px 4px 21px !important;
+        font-size: 16px;
+        line-height: 16px;
+        font-weight: 400
+    }
+
+    .drop-down-pages li a {
+        padding: 6px 32px 7px !important;
+        font-size: 15px;
+        line-height: 15px
+    }
+
+    .drop-down-pages li a:hover {
+        color: var(--e-global-color-white) !important;
+        background-image: linear-gradient(-72deg, var(--e-global-background-services-box) 0, var(--e-global-background-services-box-color2) 100%)
+    }
+
+    .navbar-collapse a:hover {
+        margin-right: 0
+    }
+
+    .nav-link {
+        margin-left: 0
+    }
+
+    h3 {
+        font-size: 30px;
+        line-height: 38px
+    }
+
+    .about-us-section-start .about-us-content {
+        padding: 32px 22px 19px;
+    }
+
+    .about-us-section-start .security-services-p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 10px
+    }
+
+    .banner-btn a {
+        padding: 17px 30px 17px 29px
+    }
+
+    .footer-section {
+        padding-top: 0
+    }
+
+    .about-teams-section .about-team {
+        border-radius: 14px;
+        text-align: center;
+        background: 0 0
+    }
+
+    .about-teams-section .teams-section-p {
+        padding: 0 0;
+        line-height: 18px;
+        margin-bottom: 18px;
+        font-size: 14px
+    }
+
+    .about-us-section-start .about-us-content h3 {
+        margin-bottom: 5px
+    }
+
+    .about-us-section {
+        padding: 70px 0
+    }
+
+    .services-section {
+        padding: 70px 0
+    }
+
+    .services-title {
+        padding: 0 54px;
+        margin-bottom: 36px
+    }
+
+    h2 {
+        font-size: 32px;
+        line-height: 37px
+    }
+
+    .services-inner {
+        width: 110px;
+        height: 110px
+    }
+
+    .services-content {
+        height: auto;
+        width: auto;
+        padding: 33px 20px
+    }
+
+    .services-h4 {
+        padding: 20px 0 8px
+    }
+
+    .services-title {
+        padding: 0 40px;
+        margin-bottom: 28px
+    }
+
+    h2 {
+        font-size: 32px;
+        line-height: 36px
+    }
+
+    .services-content {
+        padding: 21px 17px
+    }
+
+    h4 {
+        font-size: 20px;
+        line-height: 24px
+    }
+
+    .icons-section h4 {
+        margin-bottom: 34px
+    }
+
+    .about-us-section-start .about-us-content h4 {
+        margin-bottom: 10px
+    }
+
+    .services-icons {
+        top: 22px
+    }
+
+    .services-inner {
+        width: 100px;
+        height: 100px
+    }
+
+    a {
+        font-size: 16px;
+        line-height: 21px
+    }
+
+    .cyber-security-section .cyber-content-img-right figure img {
+        width: 343px
+    }
+
+    .cyber-security-section .cyber-content-img {
+        margin-top: 0
+    }
+
+    .cyber-security-section .cyber-security-provider-img {
+        width: 343px
+    }
+
+    .accordian-section .accordian-inner .accordion-card .btn {
+        padding: 12px 50px 12px 25px
+    }
+
+    .testimonial-section-text {
+        font-size: 16px;
+        line-height: 24px
+    }
+
+    .contact-us-section h2 {
+        padding: 0 125px;
+        margin-bottom: 24px
+    }
+
+    .contact-us-p {
+        padding: 0 100px;
+        margin-bottom: 24px
+    }
+
+    .team-section .facebook-left {
+        left: 58px
+    }
+
+    .services-content-our-team {
+        padding: 38px 20px 60px
+    }
+
+    .team-section .teams-h4 {
+        padding: 2px 0
+    }
+
+    .team-section {
+        padding: 70px 0
+    }
+
+    .icons-section .icons-mb {
+        margin-bottom: 20px !important
+    }
+
+    .blog-content {
+        padding: 17px 10px
+    }
+
+    .blog-content p {
+        font-size: 15px;
+        line-height: 24px
+    }
+
+    .about-us-banner-section .banner-paragraph {
+        margin-bottom: 24px
+    }
+
+    .pricing-plan-section .pricing-content {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 30px
+    }
+
+    .about-us-section-start .about-us-content {
+        padding: 30px 16px 35px 15px
+    }
+
+    .about-us-section-2 .about-us-content {
+        padding: 30px 19px 25px 20px
+    }
+
+    .faq-content-img figure img {
+        width: 343px
+    }
+
+    .pricing-plan-section .order-now-btn a {
+        font-size: 16px;
+        line-height: 18px
+    }
+
+    .about-us-section-start .about-us-content .icons-rounded-box {
+        padding: 10px 14px;
+        margin-bottom: 10px
+    }
+
+    .accordian-section .accordian-inner .faq-btn-text {
+        font-size: 16px;
+        line-height: 24px
+    }
+
+    .home-banner-section .banner-img-content .banner-img-width {
+        margin-left: 0
+    }
+
+    .banner-btn {
+        padding: 0 58px 0 0
+    }
+
+    .banner-container-box .social-icons {
+        padding: 0
+    }
+
+    .cyber-security-section {
+        padding: 70px 0
+    }
+
+    .accordian-section .accordion-card .accordian-text-color {
+        margin-bottom: 8px
+    }
+
+    .accordian-section .accordion-card .card-body {
+        padding: 0 20px 20px 20px
+    }
+
+    .footer-section .footer-icon {
+        position: absolute;
+        left: -8px;
+        top: -320px
+    }
+
+    .footer-section .footer-outer-margin {
+        padding-bottom: 46px
+    }
+
+    .footer-section .footer-content1 figure {
+        margin-bottom: 10px
+    }
+
+    .footer-section .footer-content1 {
+        padding-top: 0
+    }
+
+    .footer-section .footer-margin-left {
+        margin-bottom: 10px
+    }
+
+    .footer-section .footer-get-heading {
+        margin-bottom: 0
+    }
+
+    .about-banner-text .banner-paragraph {
+        padding: 0 0;
+    }
+
+    .about-teams-section {
+        padding: 90px 0 90px !important
+    }
+
+    .contact-us-section {
+        padding: 0 20px 28px 20px
+    }
+
+    .teams-section2 {
+        padding-top: 28px
+    }
+
+    .cyber-security-section .cyber-content .security-services-p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 12px
+    }
+
+    .cyber-security-section .cyber-content .cyber-p-margin-bottom {
+        margin-bottom: 34px !important
+    }
+
+    .cyber-security-section .cyber-content .cyber-contact-btn a {
+        font-size: 16px;
+        line-height: 20px
+    }
+
+    .accordian-section .accordian-text h3 {
+        margin-bottom: 34px;
+        padding: 0 10px
+    }
+
+    .accordian-section .accordion-card {
+        margin-left: 0
+    }
+
+
+    .carousel-controls {
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        top: 230%;
+        left: 5%;
+        right: 5%;
+        padding: 0 20px
+    }
+
+    .about-us-section-start .about-teams-inner .about-team {
+        background-color: #000
+    }
+
+    .footer-section,
+    .contactus-section,
+    .about-us-section-start,
+    .cyber-security-section,
+    .timeline-section {
+        padding: 0;
+        padding-top: 140px
+    }
+
+    .timeline-section {
+        height: 580px
+    }
+
+    .about-banner-text,
+    .timeline-section .container>p {
+        padding: 0 80px
+    }
+
+    .about-us-section-start .security-services-p {
+        padding-bottom: 10px;
+    }
+
+}
+
+@media screen and (min-width:769px) {
+    .mobile-section {
+        display: none
+    }
+}
+
+@media screen and (max-width:767px) {
+    h1 {
+        font-size: 30px;
+        line-height: 35px;
+        padding: 0
+    }
+
+    .about-banner-text .about-h1 {
+        font-size: 30px;
+        line-height: 35px
+    }
+
+    .banner-btn {
+        height: 52px;
+        padding: 0 8px 0 18px
+    }
+
+    .home-banner-text {
+        padding: 30px 0 10px 0
+    }
+
+    .banner-btn {
+        margin: 0 auto;
+        padding: 0 42px 0 103px
+    }
+
+    .banner-btn a {
+        margin-left: -46px
+    }
+
+    .inner-arrow-style {
+        font-size: 17px;
+        right: 8px
+    }
+
+    .dropdown-content-redlight ul li a {
+        line-height: 17px;
+        padding: 6px 29px !important;
+        width: 163px
+    }
+
+    .banner-img-content {
+        padding: 0 10px 0 10px
+    }
+
+    .main-header {
+        padding: 20px 0 0 0
+    }
+
+    .services-section {
+        padding: 60px 0
+    }
+
+    h6 {
+        font-size: 14px;
+        line-height: 20px
+    }
+
+    .banner-img-width {
+        width: 62%
+    }
+
+    .banner-img-content {
+        left: 0;
+        text-align: center;
+        top: 25px
+    }
+
+    .icons-section {
+        padding: 60px 19px 60px 19px
+    }
+
+    .about-us-section-start .about-us-content {
+        padding: 28px 60px 40px;
+        margin-bottom: 20px;
+        text-align: center
+    }
+
+    .about-us-section-start .about-us-content h4 {
+        margin-bottom: 12px
+    }
+
+    .banner-paragraph {
+        padding: 0 63px
+    }
+
+    h2 {
+        font-size: 28px;
+        line-height: 32px;
+        padding-left: 0 !important;
+        padding-right: 0 !important
+    }
+
+    .icons-section h4 {
+        margin-bottom: 30px
+    }
+
+    .about-us-section-start p {
+        padding: 0 40px;
+        margin-bottom: 28px
+    }
+
+    .cyber-boxes-section .cyber-boxes-text {
+        margin-bottom: 0;
+        font-size: 18px;
+        line-height: 18px
+    }
+
+    .about-us-section-start .about-us-content {
+        padding: 28px 60px 28px
+    }
+
+    .pricing-plan-section .about-us-content {
+        padding: 28px 60px 37px
+    }
+
+    .icons-section .icons-mb {
+        margin-bottom: 0 !important
+    }
+
+    .accordian-section {
+        padding: 11px 0 60px
+    }
+
+    .accordian-section .accordian-inner .accordion-card .btn {
+        padding: 12px 65px 11px 25px
+    }
+
+    .accordian-section .accordian-inner .accordion-card .btn {
+        line-height: 43px
+    }
+
+    .contact-us-section .banner-btn-contact-us a {
+        padding: 22px 66px 24px 33px
+    }
+
+    .contact-us-section .contact-us-btn a {
+        font-size: 16px;
+        line-height: 16px
+    }
+
+    .contact-us-section h2 {
+        padding: 0 63px !important
+    }
+
+    .contact-us-p {
+        padding: 0 56px;
+        margin-bottom: 30px
+    }
+
+    .cyber-security-section .cyber-content-img {
+        margin-bottom: 60px;
+        text-align: center
+    }
+
+    .cyber-security-section .cyber-security-provider-img {
+        width: 393px
+    }
+
+    .home-banner-section .banner-img-content .banner-img-width {
+        width: 360px;
+        margin-left: 0
+    }
+
+    .banner-img-content figure {
+        margin-left: 0
+    }
+
+    h3 {
+        font-size: 24px;
+        line-height: 30px
+    }
+
+    .cyber-security-section .cyber-content {
+        text-align: center;
+        margin-bottom: 60px
+    }
+
+    .accordian-section .cyber-content {
+        text-align: center;
+        margin-bottom: 20px
+    }
+
+    .cyber-boxes-section {
+        padding-bottom: 0
+    }
+
+    .banner-container-box .social-icons {
+        padding: 31px 0 0 0;
+        text-align: center;
+        display: flex;
+        justify-content: center
+    }
+
+    .faq-content-img figure {
+        text-align: center
+    }
+
+    .faq-content-img figure img {
+        width: 390px;
+        text-align: center;
+        margin-bottom: 30px
+    }
+
+    .accordian-section .accordian-text h3 {
+        padding: 0 50px
+    }
+
+    .cyber-security-section .cyber-content .security-services-p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 13px
+    }
+
+    .cyber-security-section .cyber-content .cyber-p-margin-bottom {
+        margin-bottom: 43px
+    }
+
+    .cyber-security-section .cyber-content .cyber-contact-btn a {
+        font-size: 16px;
+        line-height: 24px
+    }
+
+    .cyber-contact-btn {
+        text-align: center
+    }
+
+    .cyber-security-section {
+        padding: 70px 37px 70px
+    }
+
+    .accordian-section {
+        padding: 70px 37px 70px
+    }
+
+    .pricing-accordian {
+        padding: 0 37px 70px
+    }
+
+    .banner-btn a {
+        padding: 15px 28px 15px 30px
+    }
+
+    .cyber-security-section .cyber-content-img-right figure img {
+        width: 390px
+    }
+
+    .footer-section .footer-get-heading {
+        margin-bottom: 13px;
+        padding-left: 10px
+    }
+
+    .footer-section .footer-outer-margin {
+        padding-bottom: 70px
+    }
+
+    .footer-section {
+        padding-top: 70px
+    }
+
+    .footer-section .footer-bar-content p {
+        font-size: 14px;
+        line-height: 20px
+    }
+
+    .about-banner-text .banner-paragraph {
+        padding: 0 10px;
+        margin-bottom: 20px
+    }
+
+    .about-banner-text .about-h1 {
+        margin-bottom: 15px
+    }
+
+    .about-banner-text {
+        padding-top: 40px
+    }
+
+    .contact-us-section p {
+        padding: 0 24px 0 24px;
+        margin-bottom: 30px;
+    }
+
+    .contact-us-section .about-us-list {
+        margin-bottom: 31px;
+        padding-left: 28px
+    }
+
+    .about-us-section-start {
+        padding: 70px 0 0
+    }
+
+    .cyber-boxes-section {
+        padding-top: 0
+    }
+
+    .pricing-plan-section {
+        padding-top: 0
+    }
+
+    .about-teams-section {
+        padding: 70px 0 0 !important
+    }
+
+    .navbar-collapse {
+        width: 32% !important
+    }
+
+    .mobile-none {
+        display: none
+    }
+
+    .about-us-content .icons-rounded-box {
+        display: flex;
+        justify-content: center;
+        align-content: center
+    }
+
+    .about-us-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+
+    .timeline-section .row-timeline {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        position: relative;
+        top: -45px;
+        z-index: 1
+    }
+
+    .timeline-section .row-timeline .pop-up-bg {
+        background: var(--e-global-color-black-cards-bacground);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+
+    .timeline-section .row-timeline p {
+        color: var(--e-global-color-white);
+        text-align: center;
+        font-size: 14px
+    }
+
+    .timeline-section .timeline-text {
+        font-size: 14px
+    }
+
+    .timeline-section .row-timeline .pop-up-bg img {
+        width: 30px;
+        height: 30px
+    }
+
+    .footer-section,
+    .contactus-section,
+    .about-us-section-start,
+    .cyber-security-section,
+    .timeline-section {
+        padding: 0;
+        padding-top: 120px
+    }
+
+    .timeline-section .container>p {
+        padding: 0;
+        margin-bottom: 0
+    }
+
+    .timeline-section {
+        height: 450px
+    }
+
+    .about-banner-text,
+    .timeline-section .container>p {
+        padding: 0 40px
+    }
+
+    .owl-item-active .about.about-us-content .icons-rounded-box figure {
+        width: 100%
+    }
+
+    .container .owl-carousel .item {
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+
+    .about-us-section-start .row .about-us-content .text-decoration-none {
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+
+    .about-us-section-start .container .row {
+        padding: 0
+    }
+
+    #learn-more,
+    #learn_more {
+        display: flex;
+        flex-direction: row
+    }
+
+    .cyber-content-img {
+        padding-top: 0
+    }
+
+    .timeline-section .container .timeline-text {
+        padding: 0
+    }
+
+    .about-teams-inner .icons-rounded-box {
+        height: 356px;
+    }
+
+    .about-banner-text {
+        padding: 0 0px
+    }
+
+    .about-teams-inner {
+        padding-bottom: 25px;
+    }
+
+    .banner-container-box {
+        padding-bottom: 30px;
+    }
+
+    #frrepik {
+        text-align: center;
+    }
+
+    .owl-carousel {
+        padding-bottom: 30px;
+    }
+}
+
+@media screen and (max-width:575px) {
+    p {
+        font-size: 16px;
+        line-height: 24px
+    }
+
+    h1 {
+        font-size: 26px;
+        line-height: 32px;
+        letter-spacing: .2px;
+        word-spacing: 0
+    }
+
+    .about-banner-text .about-h1 {
+        font-size: 26px;
+        line-height: 32px
+    }
+
+    .banner-img-content {
+        left: 0
+    }
+
+    .banner-paragraph {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 18px;
+        padding: 0 10px
+    }
+
+    .nav-link {
+        font-size: 16px;
+        line-height: 20px
+    }
+
+    .inner-arrow-menu-btn {
+        font-size: 8px;
+        width: 15px;
+        height: 14px;
+        line-height: 13px !important;
+        right: 28px;
+        top: 3px;
+        display: none
+    }
+
+    .btn-talk {
+        width: auto;
+        height: auto
+    }
+
+    .banner-btn a {
+        font-size: 14px
+    }
+
+    .banner-btn {
+        height: 50px
+    }
+
+    .navbar-collapse a {
+        font-size: 14px;
+        line-height: 8px
+    }
+
+    .dropdown-content-redlight ul li a {
+        color: var(--e-global-color-white-banner-text);
+        line-height: 16px;
+        padding: 9px 70px 9px 30px !important;
+        width: auto
+    }
+
+    .icons-section .logo-box figure img {
+        width: 80px
+    }
+
+    .about-us-section-start p {
+        padding: 0 15px;
+        margin-bottom: 24px
+    }
+
+    .about-us-section-2 .offer-section-title {
+        margin-bottom: 18px
+    }
+
+    .accordian-section .faq-content-img {
+        margin-top: 10px !important;
+        text-align: center
+    }
+
+    .faq-content-img figure img {
+        width: 300px
+    }
+
+    .navbar-nav li.active>a:before {
+        display: none
+    }
+
+    .navbar-nav .active>a {
+        background: var(--e-global-color-red-active) !important;
+        color: var(--e-global-color-white)
+    }
+
+    .btn-talk .active>a {
+        background: var(--e-global-color-red-active) !important;
+        border-radius: 0
+    }
+
+    .contact-us-section .about-us-list {
+        margin-bottom: 31px;
+        padding-left: 10px
+    }
+
+    h2 {
+        font-size: 22px;
+        line-height: 26px
+    }
+
+    .services-section {
+        padding: 60px 26px
+    }
+
+    h4 {
+        font-size: 18px;
+        line-height: 27px
+    }
+
+    h3 {
+        font-size: 24px;
+        line-height: 10px
+    }
+
+    .about-us-section-start .about-us-content {
+        padding: 28px 30px 34px;
+        margin-bottom: 20px;
+        text-align: center
+    }
+
+    .cyber-security-section .cyber-security-provider-img {
+        width: 290px
+    }
+
+    h3 {
+        font-size: 20px;
+        line-height: 28px
+    }
+
+    .cyber-security-section {
+        padding: 60px 20px 0
+    }
+
+    .icons-section {
+        padding: 0 19px 0 19px
+    }
+
+    .about-banner-text {
+        margin-bottom: 0
+    }
+
+    .cyber-security-section2 {
+        padding: 0 20px
+    }
+
+    .cyber-security-section .cyber-security-provider-img {
+        width: 290px
+    }
+
+    .cyber-security-section .cyber-content-img {
+        margin-top: -45px;
+        text-align: center;
+        margin-bottom: 45px
+    }
+
+    .cyber-security-section .cyber-content-img-right figure img {
+        width: 290px;
+        margin-top: 0
+    }
+
+    .accordian-section .accordian-inner .card-body p {
+        font-size: 14px;
+        line-height: 22px;
+        margin: 0
+    }
+
+    .accordian-section .accordian-inner .card-body {
+        padding: 0 20px
+    }
+
+    .accordian-section .accordian-text h3 {
+        margin-bottom: 30px
+    }
+
+    .accordian-section h2 {
+        margin-bottom: 24px
+    }
+
+    .accordian-section .accordian-inner .accordion-card .btn {
+        font-size: 16px;
+        line-height: 24px
+    }
+
+    .accordian-section .accordian-inner .accordion-card .btn {
+        padding: 12px 40px 12px 15px;
+        font-size: 14px;
+        line-height: 14px;
+        height: auto
+    }
+
+    .accordian-section .accordion-card .btn-link:before,
+    .accordian-section .accordion-card .collapsed:before {
+        font-size: 16px;
+        right: 15px
+    }
+
+    .pricing-plan-section .pricing-free-text {
+        font-size: 14px;
+        line-height: 14px
+    }
+
+    .about-us-section-start .about-us-content h4 {
+        margin-bottom: 10px;
+    }
+
+    .about-us-section-start .about-us-content a {
+        font-size: 14px;
+        line-height: 20px
+    }
+
+    .pricing-plan-section .pricing-content {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 30px
+    }
+
+    .about-teams-section .teams-section-p {
+        padding: 0 36px;
+        line-height: 20px;
+        margin-bottom: 18px
+    }
+
+    .about-teams-section .teams-social-icons {
+        margin-bottom: 10px
+    }
+
+    .accordian-section {
+        padding: 0 0 0
+    }
+
+    .about-teams-section h3 {
+        margin-bottom: 20px
+    }
+
+    .pricing-plan-section h3 {
+        margin-bottom: 20px
+    }
+
+    .cyber-security-section .cyber-content h3 {
+        margin-bottom: 18px;
+        padding: 0;
+        font-size: 20px;
+        line-height: 26px
+    }
+
+    .about-us-section-start h3 {
+        margin-bottom: 20px
+    }
+
+    .contact-us-margin {
+        margin-right: 0
+    }
+
+    .footer-section .footer-content1 figure img {
+        text-align: center;
+        margin-bottom: 5px;
+        width: 38%
+    }
+
+    .footer-section .red-light-footer-p {
+        font-size: 14px;
+        line-height: 24px
+    }
+
+    .footer-section .footer-content1 {
+        text-align: center
+    }
+
+    .footer-section .footer-outer-margin {
+        padding-bottom: 0
+    }
+
+    .footer-section .social-icons {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px
+    }
+
+    .footer-section .red-light-footer-p {
+        margin-bottom: 20px
+    }
+
+    .footer-section .footer-list {
+        padding-left: 76px;
+        display: none
+    }
+
+    .footer-section .footer-bar .footer-bar-content {
+        padding: 10px 0;
+        margin-top: 16px
+    }
+
+    .footer-section .footer-bar .footer-bar-content {
+        padding: 15px 0;
+        margin-top: 10px
+    }
+
+    .footer-section .footer-bar-content p {
+        font-size: 12px;
+        line-height: 16px
+    }
+
+    .footer-section .footer-icon {
+        display: none
+    }
+
+    .contact-us-section .contact-content .contact-title {
+        font-size: 18px;
+        line-height: 24px
+    }
+
+    .contact-us-section .contact-us-title {
+        margin-bottom: 20px;
+        padding: 0 25px 0 25px;
+        font-size: 20px;
+        line-height: 26px
+    }
+
+    .contact-us-section .contact-section-btn .btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 40px 22px
+    }
+
+    .dropdown-content-redlight ul li {
+        margin-left: 0 !important;
+        display: block
+    }
+
+    .navbar-collapse {
+        width: 50% !important
+    }
+
+    .footer-section .footer-bar-content p {
+        font-size: 12px;
+        line-height: 16px
+    }
+
+    .about-us-section-start {
+        padding: 60px 0 60px
+    }
+
+    .pricing-plan-section {
+        padding-bottom: 0
+    }
+
+    .about-teams-section {
+        padding-bottom: 0 !important
+    }
+
+    .footer-section,
+    .contactus-section,
+    .about-us-section-start,
+    .cyber-security-section,
+    .timeline-section {
+        padding: 0;
+        padding-top: 100px
+    }
+
+    .timeline-section {
+        height: 530px
+    }
+
+    .timeline-section .container>p {
+        padding: 0 24%
+    }
+
+    .container .owl-carousel .item .icons-rounded-box {
+        width: 30%
+    }
+
+    .timeline-section .dims p {
+        margin: 0;
+        padding: 0 5px;
+        font-size: 12px
+    }
+
+    .timeline-section .dims h5 {
+        font-size: 16px
+    }
+
+    .cyber-security-section .cyber-content-img {
+        margin-top: 0
+    }
+
+    .pop-up-bg p {
+        padding: 0
+    }
+
+
+    .about-team-members-h3 {
+        text-align: center;
+    }
+
+    .cyber-contact-btn {
+        padding-top: 20px;
+    }
+
+    .contactus-section {
+        height: 100%;
+    }
+
+    .about-teams-section .about-teams-inner img {
+        opacity: 1;
+        filter: none;
+        transition-duration: 0.5s;
+        border-radius: 10px 10px 10px 10px;
+    }
+
+    .about-banner-text .banner-paragraph {
+        padding: 0 0px;
+    }
+
+    .about-us-content .icons-rounded-box {
+        width: 80px;
+    }
+
+    .back-to-top {
+        position: fixed;
+        width: 30px;
+        height: 30px;
+        bottom: 20px;
+        right: 10px;
+        background-color: var(--e-global-color-btn-red);
+        color: white;
+        border: none;
+        padding: 0;
+        border-radius: 50%;
+        font-size: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: opacity 0.3s ease;
+        z-index: 100;
+        transition: ease-in-out 0.3s;
+    }
+
+}
+
+@media screen and (max-height:700px) {
+    .home-banner-section {
+        display: block;
+        padding: 0;
+    }
+}
+
+@media screen and (max-height:555px) {
+    .banner-img {
+        display: none;
+    }
+
+    .home-banner-section {
+        display: flex;
+        align-items: center;
+    }
+}
